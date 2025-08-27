@@ -1,0 +1,5 @@
+/**:
+  ros__parameters:
+    fake_robot:
+      update_rate: 10.0
+      timeout: 0.1

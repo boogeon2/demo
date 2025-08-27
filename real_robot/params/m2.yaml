@@ -1,0 +1,26 @@
+/**:
+  ros__parameters:
+    ISR_M2:
+      wheel_controller:
+        port: "/dev/ttyACM0"
+        baudrate: 115200
+
+      odometry:
+        odom_frame: "odom"
+        base_frame: "base_link"
+
+      laser:
+        ip_address: 192.168.0.10
+        ip_port: 10940
+        laser_frame: "laser"
+        scan_topic: "scan"
+        laser_offset_x: "0.0"
+        laser_offset_y: "0.0"
+        laser_offset_z: "0.28"
+
+      camera:
+        camera_frame: "camera_link"
+        camera_name: "camera"
+        camera_offset_x: "0.0" # TODO: Set to the correct value
+        camera_offset_y: "0.0"
+        camera_offset_z: "0.0" # TODO: Set to the correct value

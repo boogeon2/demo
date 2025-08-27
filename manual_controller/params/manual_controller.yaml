@@ -1,0 +1,16 @@
+/**:
+  ros__parameters:
+    manual_controller:
+      keyboard:
+        delta_v: 0.1
+        delta_w: 0.1
+      joystick:
+        joy_axis_linear: 1
+        joy_axis_angular: 0
+        joy_button_move: 0
+        joy_button_help: 1
+        joy_button_toggle: 2
+        joy_scale_linear: 0.5
+        joy_scale_angular: 0.5
+        joy_deadzone: 0.05
+        joy_device_index: 0

@@ -1,0 +1,38 @@
+/**:
+    ros__parameters:
+        global_planner:
+            server_mode: "hgg_cbs"
+
+            param_files:
+                cfg_file_name: "/params/global_planner.yaml"
+                map_file_name: "/maps/yonsei_demo/building.yaml"
+                graph_info_file: "/maps/yonsei_demo/graph_info.yaml"
+                guide_path_file: "/maps/yonsei_demo/guide_path.yaml"
+
+            map:
+                map_name: "yonsei_demo"
+                env_height: 38.4
+                map_resolution: 0.05
+
+            task_assigner:
+                task_seed: 0
+                max_task_count: 10000
+                task_per_period: 1
+                task_period: 10.0
+                capacity: 1
+
+            hgg_cbs:
+                use_cardinal: true
+                use_disjoint_splitting: false
+                hlh_type: 0
+                connectedness: 3
+                focal_weight: 1.0
+                agent_size: 0.4
+                lin_vel: 0.26
+                ang_vel: 1.0
+                lin_acc: 1.0
+                ang_acc: 5.0
+                pickup_time: 5.0
+                timelimit: 1000
+                precision: 0.0000001
+

@@ -1,0 +1,1060 @@
+intersections:
+  - id: 12
+    roads:
+    - id: 0
+      exit_angle: -1.572
+      exit_point: [2.86, 70.93]
+      entry_point: [3.96, 70.93]
+      connected_waypoint: 25
+    - id: 1
+      exit_angle: 1.57
+      exit_point: [3.95, 74.13]
+      entry_point: [2.85, 74.13]
+      connected_waypoint: 41
+    - id: 2
+      exit_angle: 0.001
+      exit_point: [5.01, 71.98]
+      entry_point: [5.01, 73.08]
+      connected_waypoint: 43
+  - id: 13
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [7.1, 4.49]
+      entry_point: [7.1, 4.49]
+      connected_waypoint: 0
+    - id: 1
+      exit_angle: 0
+      exit_point: [10.67, 4.49]
+      entry_point: [10.67, 4.49]
+      connected_waypoint: 28
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [9.44, 5.85]
+      entry_point: [8.34, 5.85]
+      connected_waypoint: 14
+  - id: 14
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [7.1, 8.72]
+      entry_point: [7.1, 8.72]
+      connected_waypoint: 1
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [8.34, 7.35]
+      entry_point: [9.44, 7.35]
+      connected_waypoint: 13
+    - id: 2
+      exit_angle: 0
+      exit_point: [10.67, 8.72]
+      entry_point: [10.67, 8.72]
+      connected_waypoint: 29
+    - id: 3
+      exit_angle: 1.571
+      exit_point: [9.44, 10.08]
+      entry_point: [8.34, 10.08]
+      connected_waypoint: 15
+  - id: 15
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [7.1, 12.95]
+      entry_point: [7.1, 12.95]
+      connected_waypoint: 2
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [8.34, 11.58]
+      entry_point: [9.44, 11.58]
+      connected_waypoint: 14
+    - id: 2
+      exit_angle: 0
+      exit_point: [10.67, 12.95]
+      entry_point: [10.67, 12.95]
+      connected_waypoint: 30
+    - id: 3
+      exit_angle: 1.571
+      exit_point: [9.44, 14.32]
+      entry_point: [8.34, 14.32]
+      connected_waypoint: 16
+  - id: 16
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [7.1, 17.18]
+      entry_point: [7.1, 17.18]
+      connected_waypoint: 3
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [8.34, 15.82]
+      entry_point: [9.44, 15.82]
+      connected_waypoint: 15
+    - id: 2
+      exit_angle: 0
+      exit_point: [10.67, 17.18]
+      entry_point: [10.67, 17.18]
+      connected_waypoint: 31
+    - id: 3
+      exit_angle: 1.571
+      exit_point: [9.44, 18.55]
+      entry_point: [8.34, 18.55]
+      connected_waypoint: 17
+  - id: 17
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [7.1, 21.41]
+      entry_point: [7.1, 21.41]
+      connected_waypoint: 4
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [8.34, 20.05]
+      entry_point: [9.44, 20.05]
+      connected_waypoint: 16
+    - id: 2
+      exit_angle: 0
+      exit_point: [10.67, 21.41]
+      entry_point: [10.67, 21.41]
+      connected_waypoint: 32
+    - id: 3
+      exit_angle: 1.571
+      exit_point: [9.44, 22.78]
+      entry_point: [8.34, 22.78]
+      connected_waypoint: 18
+  - id: 18
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [7.1, 25.65]
+      entry_point: [7.1, 25.65]
+      connected_waypoint: 5
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [8.34, 24.28]
+      entry_point: [9.44, 24.28]
+      connected_waypoint: 17
+    - id: 2
+      exit_angle: 0
+      exit_point: [10.67, 25.65]
+      entry_point: [10.67, 25.65]
+      connected_waypoint: 33
+    - id: 3
+      exit_angle: 1.571
+      exit_point: [9.44, 27.01]
+      entry_point: [8.34, 27.01]
+      connected_waypoint: 19
+  - id: 19
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [7.1, 29.88]
+      entry_point: [7.1, 29.88]
+      connected_waypoint: 6
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [8.34, 28.51]
+      entry_point: [9.44, 28.51]
+      connected_waypoint: 18
+    - id: 2
+      exit_angle: 0
+      exit_point: [10.67, 29.88]
+      entry_point: [10.67, 29.88]
+      connected_waypoint: 34
+    - id: 3
+      exit_angle: 1.571
+      exit_point: [9.44, 31.24]
+      entry_point: [8.34, 31.24]
+      connected_waypoint: 20
+  - id: 20
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [7.1, 34.11]
+      entry_point: [7.1, 34.11]
+      connected_waypoint: 7
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [8.34, 32.74]
+      entry_point: [9.44, 32.74]
+      connected_waypoint: 19
+    - id: 2
+      exit_angle: 0
+      exit_point: [10.67, 34.11]
+      entry_point: [10.67, 34.11]
+      connected_waypoint: 35
+    - id: 3
+      exit_angle: 1.571
+      exit_point: [9.44, 35.48]
+      entry_point: [8.34, 35.48]
+      connected_waypoint: 21
+  - id: 21
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [7.1, 38.34]
+      entry_point: [7.1, 38.34]
+      connected_waypoint: 8
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [8.34, 36.98]
+      entry_point: [9.44, 36.98]
+      connected_waypoint: 20
+    - id: 2
+      exit_angle: 0
+      exit_point: [10.67, 38.34]
+      entry_point: [10.67, 38.34]
+      connected_waypoint: 36
+    - id: 3
+      exit_angle: 1.571
+      exit_point: [9.44, 39.71]
+      entry_point: [8.34, 39.71]
+      connected_waypoint: 22
+  - id: 22
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [7.1, 42.57]
+      entry_point: [7.1, 42.57]
+      connected_waypoint: 9
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [8.34, 41.21]
+      entry_point: [9.44, 41.21]
+      connected_waypoint: 21
+    - id: 2
+      exit_angle: 0
+      exit_point: [10.67, 42.57]
+      entry_point: [10.67, 42.57]
+      connected_waypoint: 37
+    - id: 3
+      exit_angle: 1.571
+      exit_point: [9.44, 43.94]
+      entry_point: [8.34, 43.94]
+      connected_waypoint: 23
+  - id: 23
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [7.1, 46.81]
+      entry_point: [7.1, 46.81]
+      connected_waypoint: 10
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [8.34, 45.44]
+      entry_point: [9.44, 45.44]
+      connected_waypoint: 22
+    - id: 2
+      exit_angle: 0
+      exit_point: [10.67, 46.81]
+      entry_point: [10.67, 46.81]
+      connected_waypoint: 38
+    - id: 3
+      exit_angle: 1.571
+      exit_point: [9.44, 48.17]
+      entry_point: [8.34, 48.17]
+      connected_waypoint: 24
+  - id: 24
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [7.1, 51.04]
+      entry_point: [7.1, 51.04]
+      connected_waypoint: 11
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [8.34, 49.67]
+      entry_point: [9.44, 49.67]
+      connected_waypoint: 23
+    - id: 2
+      exit_angle: 0
+      exit_point: [10.67, 51.04]
+      entry_point: [10.67, 51.04]
+      connected_waypoint: 39
+    - id: 3
+      exit_angle: 1.571
+      exit_point: [9.44, 52.4]
+      entry_point: [8.34, 52.4]
+      connected_waypoint: 25
+  - id: 25
+    roads:
+    - id: 0
+      exit_angle: 3.109
+      exit_point: [7.34, 57.48]
+      entry_point: [7.31, 56.38]
+      connected_waypoint: 12
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [8.34, 55.29]
+      entry_point: [9.44, 55.29]
+      connected_waypoint: 24
+    - id: 2
+      exit_angle: 0.011
+      exit_point: [10.48, 56.34]
+      entry_point: [10.47, 57.44]
+      connected_waypoint: 40
+  - id: 40
+    roads:
+    - id: 0
+      exit_angle: -3.13
+      exit_point: [17.01, 57.52]
+      entry_point: [17.02, 56.42]
+      connected_waypoint: 25
+    - id: 1
+      exit_angle: -0.826
+      exit_point: [18.82, 55.61]
+      entry_point: [19.63, 56.36]
+      connected_waypoint: 46
+    - id: 2
+      exit_angle: 1.563
+      exit_point: [19.16, 58.56]
+      entry_point: [18.06, 58.57]
+      connected_waypoint: 42
+  - id: 41
+    roads:
+    - id: 0
+      exit_angle: -3.139
+      exit_point: [18.07, 89.94]
+      entry_point: [18.08, 88.84]
+      connected_waypoint: 12
+    - id: 1
+      exit_angle: -1.576
+      exit_point: [19.12, 87.79]
+      entry_point: [20.22, 87.78]
+      connected_waypoint: 44
+    - id: 2
+      exit_angle: 0.785
+      exit_point: [20.75, 90]
+      entry_point: [19.97, 90.78]
+      connected_waypoint: 48
+  - id: 42
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [16.96, 65.17]
+      entry_point: [16.96, 65.17]
+      connected_waypoint: 26
+    - id: 1
+      exit_angle: 1.571
+      exit_point: [20.18, 66.56]
+      entry_point: [19.08, 66.56]
+      connected_waypoint: 43
+    - id: 2
+      exit_angle: -1.579
+      exit_point: [18.09, 62.03]
+      entry_point: [19.19, 62.02]
+      connected_waypoint: 40
+    - id: 3
+      exit_angle: -0.747
+      exit_point: [20.48, 62.58]
+      entry_point: [21.23, 63.39]
+      connected_waypoint: 49
+  - id: 43
+    roads:
+    - id: 0
+      exit_angle: -3.141
+      exit_point: [18.03, 73.09]
+      entry_point: [18.03, 71.99]
+      connected_waypoint: 12
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [19.08, 70.94]
+      entry_point: [20.18, 70.94]
+      connected_waypoint: 42
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [20.18, 74.14]
+      entry_point: [19.08, 74.14]
+      connected_waypoint: 44
+  - id: 44
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [17.81, 79.82]
+      entry_point: [17.81, 79.82]
+      connected_waypoint: 27
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [19.08, 78.4]
+      entry_point: [20.18, 78.4]
+      connected_waypoint: 43
+    - id: 2
+      exit_angle: 1.566
+      exit_point: [20.19, 81.22]
+      entry_point: [19.09, 81.23]
+      connected_waypoint: 41
+  - id: 46
+    roads:
+    - id: 0
+      exit_angle: 2.316
+      exit_point: [20.29, 55.64]
+      entry_point: [19.48, 54.9]
+      connected_waypoint: 40
+    - id: 1
+      exit_angle: -1.592
+      exit_point: [20.26, 52.87]
+      entry_point: [20.26, 52.87]
+      connected_waypoint: 45
+    - id: 2
+      exit_angle: -0.006
+      exit_point: [21.53, 54]
+      entry_point: [21.54, 55.1]
+      connected_waypoint: 51
+  - id: 48
+    roads:
+    - id: 0
+      exit_angle: -3.135
+      exit_point: [26.11, 91.8]
+      entry_point: [26.12, 90.7]
+      connected_waypoint: 41
+    - id: 1
+      exit_angle: -1.57
+      exit_point: [27.17, 89.58]
+      entry_point: [28.27, 89.59]
+      connected_waypoint: 49
+    - id: 2
+      exit_angle: 0.005
+      exit_point: [29.49, 92.16]
+      entry_point: [29.49, 92.16]
+      connected_waypoint: 61
+  - id: 49
+    roads:
+    - id: 0
+      exit_angle: -3.141
+      exit_point: [26.13, 62.77]
+      entry_point: [26.13, 61.67]
+      connected_waypoint: 42
+    - id: 1
+      exit_angle: -1.541
+      exit_point: [27.2, 60.64]
+      entry_point: [28.3, 60.67]
+      connected_waypoint: 60
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [28.29, 63.82]
+      entry_point: [27.19, 63.82]
+      connected_waypoint: 48
+  - id: 50
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [26.45, 24.8]
+      entry_point: [26.45, 24.8]
+      connected_waypoint: 47
+    - id: 1
+      exit_angle: -1.514
+      exit_point: [27.71, 23.49]
+      entry_point: [28.8, 23.55]
+      connected_waypoint: 54
+    - id: 2
+      exit_angle: 1.504
+      exit_point: [28.82, 26.03]
+      entry_point: [27.72, 26.11]
+      connected_waypoint: 55
+  - id: 51
+    roads:
+    - id: 0
+      exit_angle: 3.136
+      exit_point: [26.61, 55.07]
+      entry_point: [26.61, 53.97]
+      connected_waypoint: 46
+    - id: 1
+      exit_angle: -1.547
+      exit_point: [27.67, 52.93]
+      entry_point: [28.77, 52.95]
+      connected_waypoint: 59
+    - id: 2
+      exit_angle: 1.539
+      exit_point: [28.78, 56.06]
+      entry_point: [27.68, 56.1]
+      connected_waypoint: 60
+  - id: 52
+    roads:
+    - id: 0
+      exit_angle: -1.58
+      exit_point: [27.8, 8.82]
+      entry_point: [28.9, 8.81]
+      connected_waypoint: 95
+    - id: 1
+      exit_angle: 0
+      exit_point: [30.14, 10.16]
+      entry_point: [30.14, 10.16]
+      connected_waypoint: 63
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [28.91, 11.51]
+      entry_point: [27.81, 11.51]
+      connected_waypoint: 53
+  - id: 53
+    roads:
+    - id: 0
+      exit_angle: -1.571
+      exit_point: [27.81, 13.72]
+      entry_point: [28.91, 13.72]
+      connected_waypoint: 52
+    - id: 1
+      exit_angle: 0
+      exit_point: [30.13, 15.07]
+      entry_point: [30.13, 15.07]
+      connected_waypoint: 62
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [28.91, 16.41]
+      entry_point: [27.81, 16.41]
+      connected_waypoint: 54
+  - id: 54
+    roads:
+    - id: 0
+      exit_angle: 1.627
+      exit_point: [28.82, 23.24]
+      entry_point: [27.72, 23.17]
+      connected_waypoint: 50
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [27.81, 20.07]
+      entry_point: [28.91, 20.07]
+      connected_waypoint: 53
+    - id: 2
+      exit_angle: 0
+      exit_point: [29.96, 21.12]
+      entry_point: [29.96, 22.22]
+      connected_waypoint: 96
+  - id: 55
+    roads:
+    - id: 0
+      exit_angle: -1.638
+      exit_point: [27.72, 26.17]
+      entry_point: [28.82, 26.09]
+      connected_waypoint: 50
+    - id: 1
+      exit_angle: 0
+      exit_point: [30.14, 27.42]
+      entry_point: [30.14, 27.42]
+      connected_waypoint: 64
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [28.91, 28.79]
+      entry_point: [27.81, 28.79]
+      connected_waypoint: 56
+  - id: 56
+    roads:
+    - id: 0
+      exit_angle: -1.571
+      exit_point: [27.81, 30.89]
+      entry_point: [28.91, 30.89]
+      connected_waypoint: 55
+    - id: 1
+      exit_angle: 0
+      exit_point: [30.14, 32.25]
+      entry_point: [30.14, 32.25]
+      connected_waypoint: 65
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [28.91, 33.61]
+      entry_point: [27.81, 33.61]
+      connected_waypoint: 57
+  - id: 57
+    roads:
+    - id: 0
+      exit_angle: -1.571
+      exit_point: [27.81, 38]
+      entry_point: [28.91, 38]
+      connected_waypoint: 56
+    - id: 1
+      exit_angle: 0
+      exit_point: [30.14, 39.36]
+      entry_point: [30.14, 39.36]
+      connected_waypoint: 66
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [28.91, 40.72]
+      entry_point: [27.81, 40.72]
+      connected_waypoint: 58
+  - id: 58
+    roads:
+    - id: 0
+      exit_angle: -1.571
+      exit_point: [27.81, 42.22]
+      entry_point: [28.91, 42.22]
+      connected_waypoint: 57
+    - id: 1
+      exit_angle: 0
+      exit_point: [30.15, 43.59]
+      entry_point: [30.15, 43.59]
+      connected_waypoint: 67
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [28.91, 44.96]
+      entry_point: [27.81, 44.96]
+      connected_waypoint: 59
+  - id: 59
+    roads:
+    - id: 0
+      exit_angle: 1.595
+      exit_point: [28.87, 48.73]
+      entry_point: [27.77, 48.71]
+      connected_waypoint: 51
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [27.81, 45.55]
+      entry_point: [28.91, 45.55]
+      connected_waypoint: 58
+    - id: 2
+      exit_angle: 0.001
+      exit_point: [29.96, 46.6]
+      entry_point: [29.96, 47.7]
+      connected_waypoint: 75
+  - id: 60
+    roads:
+    - id: 0
+      exit_angle: 1.6
+      exit_point: [28.31, 60.37]
+      entry_point: [27.21, 60.33]
+      connected_waypoint: 49
+    - id: 1
+      exit_angle: -1.603
+      exit_point: [27.71, 57.1]
+      entry_point: [28.81, 57.07]
+      connected_waypoint: 51
+    - id: 2
+      exit_angle: 0.023
+      exit_point: [29.87, 58.11]
+      entry_point: [29.84, 59.21]
+      connected_waypoint: 68
+  - id: 68
+    roads:
+    - id: 0
+      exit_angle: -3.118
+      exit_point: [32.04, 59.26]
+      entry_point: [32.07, 58.16]
+      connected_waypoint: 60
+    - id: 1
+      exit_angle: 1.571
+      exit_point: [33.43, 60.56]
+      entry_point: [33.43, 60.56]
+      connected_waypoint: 69
+    - id: 2
+      exit_angle: 0
+      exit_point: [34.84, 58.19]
+      entry_point: [34.84, 59.29]
+      connected_waypoint: 70
+  - id: 70
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [43.38, 59.29]
+      entry_point: [43.38, 58.19]
+      connected_waypoint: 68
+    - id: 1
+      exit_angle: 1.571
+      exit_point: [44.78, 60.55]
+      entry_point: [44.78, 60.55]
+      connected_waypoint: 71
+    - id: 2
+      exit_angle: 0
+      exit_point: [46.17, 58.19]
+      entry_point: [46.17, 59.29]
+      connected_waypoint: 72
+  - id: 72
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [56.07, 59.29]
+      entry_point: [56.07, 58.19]
+      connected_waypoint: 70
+    - id: 1
+      exit_angle: 1.571
+      exit_point: [57.47, 60.56]
+      entry_point: [57.47, 60.56]
+      connected_waypoint: 73
+    - id: 2
+      exit_angle: -0.022
+      exit_point: [58.84, 58.16]
+      entry_point: [58.86, 59.26]
+      connected_waypoint: 74
+  - id: 74
+    roads:
+    - id: 0
+      exit_angle: 3.12
+      exit_point: [62.93, 59.18]
+      entry_point: [62.91, 58.08]
+      connected_waypoint: 72
+    - id: 1
+      exit_angle: -1.54
+      exit_point: [64.33, 56.36]
+      entry_point: [65.43, 56.39]
+      connected_waypoint: 75
+    - id: 2
+      exit_angle: 0.765
+      exit_point: [65.94, 57.65]
+      entry_point: [65.18, 58.44]
+      connected_waypoint: 76
+  - id: 75
+    roads:
+    - id: 0
+      exit_angle: -1.595
+      exit_point: [64.34, 53.46]
+      entry_point: [65.44, 53.43]
+      connected_waypoint: 59
+    - id: 1
+      exit_angle: 1.601
+      exit_point: [65.43, 56.26]
+      entry_point: [64.33, 56.23]
+      connected_waypoint: 74
+    - id: 2
+      exit_angle: 0
+      exit_point: [66.74, 54.85]
+      entry_point: [66.74, 54.85]
+      connected_waypoint: 78
+  - id: 76
+    roads:
+    - id: 0
+      exit_angle: -3.096
+      exit_point: [68.4, 60.33]
+      entry_point: [68.45, 59.24]
+      connected_waypoint: 74
+    - id: 1
+      exit_angle: 1.571
+      exit_point: [69.74, 61.63]
+      entry_point: [69.74, 61.63]
+      connected_waypoint: 77
+    - id: 2
+      exit_angle: -0.006
+      exit_point: [71.1, 59.29]
+      entry_point: [71.11, 60.39]
+      connected_waypoint: 79
+  - id: 79
+    roads:
+    - id: 0
+      exit_angle: -3.126
+      exit_point: [87.91, 62.07]
+      entry_point: [87.92, 60.97]
+      connected_waypoint: 76
+    - id: 1
+      exit_angle: 1.571
+      exit_point: [89.3, 63.34]
+      entry_point: [89.3, 63.34]
+      connected_waypoint: 80
+    - id: 2
+      exit_angle: -0.009
+      exit_point: [90.68, 60.98]
+      entry_point: [90.69, 62.08]
+      connected_waypoint: 82
+  - id: 82
+    roads:
+    - id: 0
+      exit_angle: 2.4
+      exit_point: [101.1, 61.52]
+      entry_point: [100.36, 60.71]
+      connected_waypoint: 79
+    - id: 1
+      exit_angle: -2.356
+      exit_point: [101.48, 58.19]
+      entry_point: [101.48, 58.19]
+      connected_waypoint: 81
+    - id: 2
+      exit_angle: 0.002
+      exit_point: [104.86, 59.95]
+      entry_point: [104.85, 61.05]
+      connected_waypoint: 84
+    - id: 3
+      exit_angle: 1.564
+      exit_point: [103.48, 62.3]
+      entry_point: [103.48, 62.3]
+      connected_waypoint: 83
+  - id: 84
+    roads:
+    - id: 0
+      exit_angle: -3.139
+      exit_point: [113.29, 61.07]
+      entry_point: [113.3, 59.97]
+      connected_waypoint: 82
+    - id: 1
+      exit_angle: 1.571
+      exit_point: [114.69, 62.33]
+      entry_point: [114.69, 62.33]
+      connected_waypoint: 85
+    - id: 2
+      exit_angle: 0
+      exit_point: [116.09, 59.97]
+      entry_point: [116.09, 61.07]
+      connected_waypoint: 86
+  - id: 86
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [124.43, 61.07]
+      entry_point: [124.43, 59.97]
+      connected_waypoint: 84
+    - id: 1
+      exit_angle: 1.57
+      exit_point: [126.58, 62.12]
+      entry_point: [125.48, 62.12]
+      connected_waypoint: 103
+    - id: 2
+      exit_angle: 0
+      exit_point: [127.63, 59.97]
+      entry_point: [127.63, 61.07]
+      connected_waypoint: 91
+  - id: 91
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [135.76, 61.07]
+      entry_point: [135.76, 59.97]
+      connected_waypoint: 86
+    - id: 1
+      exit_angle: 1.571
+      exit_point: [137.12, 62.31]
+      entry_point: [137.12, 62.31]
+      connected_waypoint: 92
+    - id: 2
+      exit_angle: -0.786
+      exit_point: [138.74, 59.46]
+      entry_point: [139.52, 60.23]
+      connected_waypoint: 101
+  - id: 95
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [138.71, 14.9]
+      entry_point: [138.71, 14.9]
+      connected_waypoint: 88
+    - id: 1
+      exit_angle: -1.564
+      exit_point: [139.96, 13.53]
+      entry_point: [141.06, 13.54]
+      connected_waypoint: 52
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [141.05, 16.27]
+      entry_point: [139.95, 16.27]
+      connected_waypoint: 96
+  - id: 96
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [138.9, 22.22]
+      entry_point: [138.9, 21.12]
+      connected_waypoint: 54
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [139.95, 20.07]
+      entry_point: [141.05, 20.07]
+      connected_waypoint: 95
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [141.05, 23.27]
+      entry_point: [139.95, 23.27]
+      connected_waypoint: 97
+  - id: 97
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [138.72, 27.76]
+      entry_point: [138.72, 27.76]
+      connected_waypoint: 90
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [139.95, 26.4]
+      entry_point: [141.05, 26.4]
+      connected_waypoint: 96
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [141.05, 29.12]
+      entry_point: [139.95, 29.12]
+      connected_waypoint: 98
+  - id: 98
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [138.71, 39.27]
+      entry_point: [138.71, 39.27]
+      connected_waypoint: 89
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [139.95, 37.91]
+      entry_point: [141.05, 37.91]
+      connected_waypoint: 97
+    - id: 2
+      exit_angle: 1.53
+      exit_point: [141.11, 40.58]
+      entry_point: [140.01, 40.62]
+      connected_waypoint: 99
+  - id: 99
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [139.34, 48.16]
+      entry_point: [139.34, 48.16]
+      connected_waypoint: 93
+    - id: 1
+      exit_angle: -1.559
+      exit_point: [140.56, 46.86]
+      entry_point: [141.66, 46.87]
+      connected_waypoint: 98
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [141.64, 49.47]
+      entry_point: [140.54, 49.47]
+      connected_waypoint: 100
+  - id: 100
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [139.34, 51.29]
+      entry_point: [139.34, 51.29]
+      connected_waypoint: 94
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [140.54, 49.98]
+      entry_point: [141.64, 49.98]
+      connected_waypoint: 99
+    - id: 2
+      exit_angle: 1.571
+      exit_point: [141.64, 52.6]
+      entry_point: [140.54, 52.6]
+      connected_waypoint: 101
+  - id: 101
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [139.32, 54.09]
+      entry_point: [139.32, 54.09]
+      connected_waypoint: 87
+    - id: 1
+      exit_angle: -1.571
+      exit_point: [140.54, 52.74]
+      entry_point: [141.64, 52.74]
+      connected_waypoint: 100
+    - id: 2
+      exit_angle: 2.356
+      exit_point: [140.81, 58.95]
+      entry_point: [140.03, 58.17]
+      connected_waypoint: 91
+    - id: 3
+      exit_angle: 0
+      exit_point: [143.9, 55.48]
+      entry_point: [143.9, 56.58]
+      connected_waypoint: 103
+  - id: 103
+    roads:
+    - id: 0
+      exit_angle: 3.142
+      exit_point: [145.84, 56.58]
+      entry_point: [145.84, 55.48]
+      connected_waypoint: 101
+    - id: 1
+      exit_angle: -1.634
+      exit_point: [146.82, 53.61]
+      entry_point: [146.82, 53.61]
+      connected_waypoint: 102
+    - id: 2
+      exit_angle: 1.569
+      exit_point: [147.99, 57.63]
+      entry_point: [146.89, 57.63]
+      connected_waypoint: 86
+endpoints:
+  - id: 0
+    entry_angle: 3.142
+  - id: 1
+    entry_angle: 3.142
+  - id: 2
+    entry_angle: 3.142
+  - id: 3
+    entry_angle: 3.142
+  - id: 4
+    entry_angle: 3.142
+  - id: 5
+    entry_angle: 3.142
+  - id: 6
+    entry_angle: 3.142
+  - id: 7
+    entry_angle: 3.142
+  - id: 8
+    entry_angle: 3.142
+  - id: 9
+    entry_angle: 3.142
+  - id: 10
+    entry_angle: 3.142
+  - id: 11
+    entry_angle: 3.142
+  - id: 26
+    entry_angle: 3.142
+  - id: 27
+    entry_angle: 3.142
+  - id: 28
+    entry_angle: 0
+  - id: 29
+    entry_angle: 0
+  - id: 30
+    entry_angle: 0
+  - id: 31
+    entry_angle: 0
+  - id: 32
+    entry_angle: 0
+  - id: 33
+    entry_angle: 0
+  - id: 34
+    entry_angle: 0
+  - id: 35
+    entry_angle: 0
+  - id: 36
+    entry_angle: 0
+  - id: 37
+    entry_angle: 0
+  - id: 38
+    entry_angle: 0
+  - id: 39
+    entry_angle: 0
+  - id: 45
+    entry_angle: -1.594
+  - id: 47
+    entry_angle: 3.142
+  - id: 61
+    entry_angle: 0
+  - id: 62
+    entry_angle: 0
+  - id: 63
+    entry_angle: 0
+  - id: 64
+    entry_angle: 0
+  - id: 65
+    entry_angle: 0
+  - id: 66
+    entry_angle: 0
+  - id: 67
+    entry_angle: 0
+  - id: 69
+    entry_angle: 1.571
+  - id: 71
+    entry_angle: 1.571
+  - id: 73
+    entry_angle: 1.571
+  - id: 77
+    entry_angle: 1.571
+  - id: 78
+    entry_angle: 0
+  - id: 80
+    entry_angle: 1.571
+  - id: 81
+    entry_angle: 3.142
+  - id: 83
+    entry_angle: 1.552
+  - id: 85
+    entry_angle: 1.571
+  - id: 87
+    entry_angle: 3.142
+  - id: 88
+    entry_angle: 3.142
+  - id: 89
+    entry_angle: 3.142
+  - id: 90
+    entry_angle: 3.142
+  - id: 92
+    entry_angle: 1.571
+  - id: 93
+    entry_angle: 3.142
+  - id: 94
+    entry_angle: 3.142
+  - id: 102
+    entry_angle: -1.63

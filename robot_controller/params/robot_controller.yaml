@@ -1,0 +1,8 @@
+/**:
+  ros__parameters:
+    robot_controller:
+      lin_vel: 0.5
+      ang_vel: 1.0
+      min_lin_vel: 0.1
+      max_lin_vel: 0.6
+      lookahead_dist: 0.4

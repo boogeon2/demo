@@ -1,0 +1,6 @@
+map_server:
+    ros__parameters:
+        map: "ino_hall_1f"
+        yaml_filename: ""
+        topic_name: "map"
+        frame_id: "map"

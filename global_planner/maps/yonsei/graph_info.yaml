@@ -1,0 +1,122 @@
+intersections:
+  - id: 0
+    roads:
+    - id: 0
+      exit_angle: -3.1181
+      exit_point: [-40.55, 54.36]
+      entry_point: [-43.3, 54.3]
+      connected_waypoint: 9
+    - id: 1
+      exit_angle: 0
+      exit_point: [-37.55, 54.4]
+      entry_point: [-34.85, 54.4]
+      connected_waypoint: 10
+    - id: 2
+      exit_angle: 1.5708
+      exit_point: [-39.55, 55.9]
+      entry_point: [-38.55, 57.2]
+      connected_waypoint: 1
+  - id: 1
+    roads:
+    - id: 0
+      exit_angle: 0.023805
+      exit_point: [-37.55, 58.74]
+      entry_point: [-34.85, 58.8]
+      connected_waypoint: 11
+    - id: 1
+      exit_angle: -3.1175
+      exit_point: [-40.55, 58.66]
+      entry_point: [-43.2, 58.6]
+      connected_waypoint: 8
+    - id: 2
+      exit_angle: 1.5925
+      exit_point: [-39.58, 60.19]
+      entry_point: [-38.62, 61.81]
+      connected_waypoint: 2
+    - id: 3
+      exit_angle: -1.5708
+      exit_point: [-38.55, 57.2]
+      entry_point: [-39.55, 55.9]
+      connected_waypoint: 0
+  - id: 2
+    roads:
+    - id: 0
+      exit_angle: 3.1416
+      exit_point: [-40.65, 63.3]
+      entry_point: [-42.75, 63.3]
+      connected_waypoint: 7
+    - id: 1
+      exit_angle: 0.045423
+      exit_point: [-37.65, 63.37]
+      entry_point: [-34.75, 63.5]
+      connected_waypoint: 12
+    - id: 2
+      exit_angle: 1.5708
+      exit_point: [-39.65, 64.8]
+      entry_point: [-38.65, 67.35]
+      connected_waypoint: 3
+    - id: 3
+      exit_angle: -1.5491
+      exit_point: [-38.62, 61.81]
+      entry_point: [-39.58, 60.19]
+      connected_waypoint: 1
+  - id: 3
+    roads:
+    - id: 0
+      exit_angle: 0.021736
+      exit_point: [-37.65, 68.88]
+      entry_point: [-34.55, 68.95]
+      connected_waypoint: 13
+    - id: 1
+      exit_angle: -3.1156
+      exit_point: [-40.65, 68.81]
+      entry_point: [-43, 68.75]
+      connected_waypoint: 6
+    - id: 2
+      exit_angle: 1.517
+      exit_point: [-39.57, 70.37]
+      entry_point: [-38.38, 73.83]
+      connected_waypoint: 4
+    - id: 3
+      exit_angle: -1.5708
+      exit_point: [-38.65, 67.35]
+      entry_point: [-39.65, 64.8]
+      connected_waypoint: 2
+  - id: 4
+    roads:
+    - id: 0
+      exit_angle: -3.094
+      exit_point: [-40.3, 75.28]
+      entry_point: [-43, 75.15]
+      connected_waypoint: 5
+    - id: 1
+      exit_angle: 0.067314
+      exit_point: [-37.3, 75.45]
+      entry_point: [-34.35, 75.65]
+      connected_waypoint: 14
+    - id: 2
+      exit_angle: -1.6246
+      exit_point: [-38.38, 73.83]
+      entry_point: [-39.57, 70.37]
+      connected_waypoint: 3
+endpoints:
+  - id: 5
+    entry_angle: 4.665
+  - id: 6
+    entry_angle: 4.686
+  - id: 7
+    entry_angle: 4.712
+  - id: 8
+    entry_angle: 4.688
+  - id: 9
+    entry_angle: 4.689
+  - id: 10
+    entry_angle: 1.571
+  - id: 11
+    entry_angle: 1.547
+  - id: 12
+    entry_angle: 1.525
+  - id: 13
+    entry_angle: 1.549
+  - id: 14
+    entry_angle: 1.503
